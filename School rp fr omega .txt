@@ -1,2 +1,2 @@
 getgenv().SCRIPT_KEY = "KEYLES" 
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/41360344d1981ab6a264c47adfbc9d4d11246bf25472600d6d2e678fe7a5f51b/download"))()
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/ac2e088f2d56e0c73c42bd5cc46d601542ba0d162a3e49005b663c199cdc8e2c/download"))()
